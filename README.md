@@ -10,7 +10,8 @@
 Data from 'Las Trescientas' winter wheat experiment 2020 (Guadalcazar, Cordoba, Spain). This repository includes all data to be shared within the context of work package 2.1 of the EU project SHui. 
 
 1. Data from the field experiment conducted in 2019/20 by the agronomy department of the University of Cordoba and the Institute for Sustainable Agriculture (CSIC).
-Shapefiles: 
+
+Files to be considered: 
 
  - Probes location and observation sites (SENTEK_probes.shp);
  - DEM (TopographicMap.shp);
