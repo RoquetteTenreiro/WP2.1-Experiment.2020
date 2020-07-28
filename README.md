@@ -7,11 +7,9 @@
 
 > Institute for Sustainable Agriculture (IAS-CSIC) - Córdoba, 2020
 
-Data from 'Las Trescientas' winter wheat experiment 2020 (Guadalcazar, Cordoba, Spain):
+Data from 'Las Trescientas' winter wheat experiment 2020 (Guadalcazar, Cordoba, Spain). This repository includes all data to be shared within the context of work package 2.1 of the EU project SHui. 
 
-1. This repository includes all data to be shared within the context of work package 2.1 of the EU project SHui. 
-
-Data corresponds to the field experiment conducted in 2019/20 by the agronomy department of the University of Cordoba and the Institute for Sustainable Agriculture (CSIC).
+1. Data corresponds to the field experiment conducted in 2019/20 by the agronomy department of the University of Cordoba and the Institute for Sustainable Agriculture (CSIC).
 Shapefiles: 
 
  - Probes location and observation sites (SENTEK_probes.shp);
