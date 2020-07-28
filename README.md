@@ -1,6 +1,6 @@
 # EU-SHui WP2.1 - Field experiment 2020 Finca Las Trescientas - Cordoba, Spain
 
-![Image description](cover.jpeg)
+![Image description](Cover.jpg)
 
 > Author: Tomás Roquette Tenreiro
 
