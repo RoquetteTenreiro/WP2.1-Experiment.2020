@@ -9,5 +9,5 @@ Please do not hesitate in contacting me in case you have any questions or would 
 
 Best regards,
 
-Tomás R. Tenreiro 
+T. R. Tenreiro 
 [IAS - CSIC]
