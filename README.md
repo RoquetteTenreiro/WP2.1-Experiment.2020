@@ -14,7 +14,7 @@ Shapefiles:
 
  - Probes location and observation sites (SENTEK_probes.shp);
  - DEM (TopographicMap.shp);
- - Climate file (CLI.txt);
+ - Climate file (Cordoba.Weather.txt);
  - Water file: precipitation + probes data (SWC_daily_WP2.1.LasTrescientas_Experiment.2020.txt);
 
 2. Please consider the attached PDF file for clarification regarding preliminary error assessment and data mining.
