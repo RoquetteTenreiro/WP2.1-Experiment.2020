@@ -1,5 +1,5 @@
 # WP2.2---Experiment.2020---FincaLasTrescientas---Cordoba-Spain
-Data from 'Via Verde' Experiment 2020 (Guadalcazar, Spain).
+Data from 'Las Trescientas' winter wheat experiment 2020 (Guadalcazar, Cordoba, Spain).
 
 This repository includes all data to be shared within the context of work package 2.1-2.2 of the EU project SHui. 
 
