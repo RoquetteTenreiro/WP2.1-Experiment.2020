@@ -18,6 +18,6 @@ Files to be considered:
  - Climate file (Cordoba.Weather.txt);
  - Water file: precipitation + probes data (SWC_daily_WP2.1.LasTrescientas_Experiment.2020.txt);
 
-2. Please consider the attached PDF file for clarification regarding preliminary error assessment and data mining.
+2. Please consider the attached PDF file (Field_water_data_mining.pdf) for clarification regarding preliminary error assessment and data mining.
 
 Please do not hesitate in contacting me in case you have any questions or would like to have further information: roquettetenreiro@gmail.com
